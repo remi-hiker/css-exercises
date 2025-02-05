@@ -1,29 +1,8 @@
-.number-1 {
-    font-size: 22px;
+p {
     background-color: pink;
     font-family: Arial, Helvetica, sans-serif;
-    
 }
 
-.number-2 {
-    font-size: 48px;
-    color: blue;
-    font-weight: bold;
-}
-
-.number-3 {
-    font-size: 32px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.number-4 {
-    font-size: 24px;
-    font-weight: 1000;
-    color: black;
-    background-color: rgb(112, 184, 5);
-}
-
-.number-5 {
-    font-size: 22px;
-    font-family: Arial, Helvetica, sans-serif;
+div {
+    font-family: 'Times New Roman', Times, serif;
 }
