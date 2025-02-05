@@ -1,8 +1,30 @@
 p {
+    font-size: 18px;
     background-color: pink;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 div {
     font-family: 'Times New Roman', Times, serif;
+}
+
+.number-2 {
+    color: blue;
+    font-size: 44px;
+    font-weight: bold;
+
+}
+
+.number-3 {
+    font-size: 36px;
+}
+
+.number-4 {
+    background-color: rgb(101, 241, 65);
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.number-5 {
+    font-size: 24px;
 }
