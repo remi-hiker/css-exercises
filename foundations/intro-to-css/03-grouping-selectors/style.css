@@ -1,0 +1,14 @@
+.chris-tucker,
+.jackie-chan {
+    font-size: 28px;
+}
+
+.chris-tucker {
+    color: white;
+    background-color: black;
+}
+
+.jackie-chan {
+    color: black;
+    background-color: yellow;
+}
