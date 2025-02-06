@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+.original {
+    width: 300px;
+    height: auto;    
+}
+
+.avatar{
+    width: 200px;
+}
+.avatar.distorted {
+    height: calc(2 * 200px);
+}
+
